@@ -1,0 +1,24 @@
+body {
+    background-color: rgb(53,53,53);
+    color: whitesmoke;
+    text-align: center;
+}
+
+header {
+    font-family: 'Tangerine', cursive;
+    /* font-size: 72px; */
+    text-align: center;
+    /* margin: 20px; */
+}
+
+h3 {
+    font-family: 'Unica One', cursive;
+    font-style: normal;
+    font-size: 26px;
+    text-align: center;
+}
+
+.top {
+    width: 540px;
+}
+
